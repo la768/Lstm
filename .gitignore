@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+
+# CatBoost training logs
+catboost_info/
+
+# App runtime output
+model_log.txt
+Ai_folder/screenshots/
